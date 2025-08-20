@@ -47,7 +47,8 @@ Due to license restrictions, we cannot distribute full datasets. However:
 
 - ✅ Public dataset source:
   - MRI & PET Images: [Harvard Brain Atlas](https://www.med.harvard.edu/aanlib/)
-    [Harvard Fusion Dataset](https://github.com/xianming-gu/Havard-Medical-Image-Fusion-Datasets)
+    
+    and [Harvard Fusion Dataset](https://github.com/xianming-gu/Havard-Medical-Image-Fusion-Datasets)
 
 **Input Image Folders**
 ```
